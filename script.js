@@ -1,0 +1,1 @@
+alert('Olá! Aqui está o meu QR CODE')
