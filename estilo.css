@@ -4,16 +4,17 @@ body {
 }
 
 header {
+    font-family: 'Courier New', Courier, monospace;
     color: white;
     text-align: center;
 
 }
 
 section {
-    background: white;
+    background-image: url(imagens/tile.png);
     border-radius: 10px;
     padding: 200px;
-    width: 300px;
+    width: 350px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.164);
     color: white ;
@@ -31,6 +32,12 @@ img {
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.164);
 
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
 }
 
 footer {
